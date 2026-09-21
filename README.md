@@ -23,40 +23,40 @@ my real-world SDET skills.
 # Tech Stack
 
 # Testing
-  Playwright
-  Manual Testing
-  API Testing
-  Postman
-  Test Case Design
+  Playwright, 
+  Manual Testing,
+  API Testing,
+  Postman,
+  Test Case Design,
   Regression / Smoke Testing
 
 # Programming
-  JavaScript
-  TypeScript
+  JavaScript,
+  TypeScript,
   Python
 
 # Automation
-  Playwright
-  POM
-  Fixtures
-  Data-driven Testing
+  Playwright,
+  POM,
+  Fixtures,
+  Data-driven Testing,
   Allure
 
 # DevOps
-  Git
-  GitHub Actions
-  Docker
+  Git,
+  GitHub Actions,
+  Docker,
   CI/CD
 
 # Database
-  MySQL
-  PostgreSQL
+  MySQL,
+  PostgreSQL,
   MongoDB
 
 # AI 
-  LLMs
-  RAG
-  AI Test Case Generation
+  LLMs,
+  RAG,
+  AI Test Case Generation,
   AI Agents
 
 
