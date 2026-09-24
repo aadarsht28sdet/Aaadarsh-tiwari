@@ -7,5 +7,10 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(), // Adds Tailwind v4 compilation to the build pipeline
-  ],
+    ],
+    root: 'src',
+    build: {
+    outDir: '../dist', // Puts the build folder back out in the main project root
+    emptyOutDir: true,
+  }
 })
